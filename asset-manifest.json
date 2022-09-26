@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Simple-Movie-List/static/css/main.498d002a.chunk.css",
+    "main.js": "/Simple-Movie-List/static/js/main.73fb5e26.chunk.js",
+    "main.js.map": "/Simple-Movie-List/static/js/main.73fb5e26.chunk.js.map",
+    "runtime-main.js": "/Simple-Movie-List/static/js/runtime-main.7d583cfc.js",
+    "runtime-main.js.map": "/Simple-Movie-List/static/js/runtime-main.7d583cfc.js.map",
+    "static/css/2.0e7c9eac.chunk.css": "/Simple-Movie-List/static/css/2.0e7c9eac.chunk.css",
+    "static/js/2.9c6405f8.chunk.js": "/Simple-Movie-List/static/js/2.9c6405f8.chunk.js",
+    "static/js/2.9c6405f8.chunk.js.map": "/Simple-Movie-List/static/js/2.9c6405f8.chunk.js.map",
+    "index.html": "/Simple-Movie-List/index.html",
+    "precache-manifest.a668b932b5e6d9205c9d29aaebfeb959.js": "/Simple-Movie-List/precache-manifest.a668b932b5e6d9205c9d29aaebfeb959.js",
+    "service-worker.js": "/Simple-Movie-List/service-worker.js",
+    "static/css/2.0e7c9eac.chunk.css.map": "/Simple-Movie-List/static/css/2.0e7c9eac.chunk.css.map",
+    "static/css/main.498d002a.chunk.css.map": "/Simple-Movie-List/static/css/main.498d002a.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7d583cfc.js",
+    "static/css/2.0e7c9eac.chunk.css",
+    "static/js/2.9c6405f8.chunk.js",
+    "static/css/main.498d002a.chunk.css",
+    "static/js/main.73fb5e26.chunk.js"
+  ]
+}
